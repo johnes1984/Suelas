@@ -1,6 +1,6 @@
 <?php
 
-class ProyectosController extends AppController{
+class SuelasaxController extends AppController{
     public $helpers = array('Html','Form');
     public $components = array('Session');
     
